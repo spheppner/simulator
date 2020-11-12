@@ -1,2 +1,2 @@
-# towerdefense_pygame
-towerdefense game in python3 / pygame
+# Simulator
+Simulator with many simulations...
